@@ -1,5 +1,5 @@
  # Hey, here's a little about me 🥀
-1. 📁 My Projects: My main project, **MoDo**, has been in the works for about **4** months now, and is getting a major **[rewrite](https://github.com/DaRealDorseyBro/MoDoPublic)** which will fix a lot of stuff, and my side project, **discord-minigames** is going to be a npm package with a collection of discord minigames!
+1. 📁 My Projects: My main project, **MoDo**, has been in the works for about **4** months now, and is getting a major **[rewrite](https://github.com/DaRealDorseyBro/MoDoPublic)** which will fix a lot of stuff, and my side project, **[discord-minigames](https://github.com/DaRealDorseyBro/discord-minigames)** is going to be a npm package with a collection of discord minigames!
 2. 📧 Contacts: Discord **DaRealDorseyBro#5000**, **[Email](contactrosey5@gmail.com)** (More likely to respond to Discord)
 3. 🤔 I'm Learing: **TypeScript**, **JavaScript**, and **C#**
 4. 💬 Status: Ready to help anyone (But not just copying!)
