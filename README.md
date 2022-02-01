@@ -1,7 +1,7 @@
- # Hey, here's a little about me 🥀
-1. 📁 My Projects: My main project, **MoDo**, has been in the works for about **4** months now, and is getting a major **[rewrite](https://github.com/DaRealDorseyBro/MoDoPublic)** which will fix a lot of stuff, and my side project, **[discord-minigames](https://github.com/DaRealDorseyBro/discord-minigames)** is going to be a npm package with a collection of discord minigames!
-2. 📧 Contacts: Discord **DaRealDorseyBro#5000**, **[Email](contactrosey5@gmail.com)** (More likely to respond to Discord)
-3. 🤔 I'm Learing: **TypeScript**, **JavaScript**, and **C#**
-4. 💬 Status: Ready to help anyone (But not just copying!)
-5. ✨ Facts about me: I am a self-taught developer, and I work alone
-6. 🥀 Personal Info: My Preferred Name is **Rosey**, My Pronouns are **They**/**Them**
+ # Hey, here's a little about me
+1. 📁 My Projects: My main project, **Notepad**, has been in the works for almost **7** months now, but because I can't apply to be verfived it will be stuck at 100 servers forever. I have no other projects I am working on but I am brainstorming on things to make.
+2. 📧 Contacts: Discord **DaRealDorseyBro#5000**.
+3. 🤔 I'm Learing: **TypeScript**, **JavaScript**,**C#**, and **C++**.
+4. 💬 Status: Bored, want to find a project to work on.
+5. ✨ Facts about me: I am a self-taught developer, and I work alone.
+6. 💸 Check out my ffiver page if you want to comission a bot from me!
