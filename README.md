@@ -7,9 +7,3 @@ I'm a Computer Science student at **Cal Poly San Luis Obispo** (expected 2028) a
 - 🌱 Learning more about **data structures, Java, and full-stack development**
 - 🧩 Active in **Hack4Impact**, where I’m preparing to contribute to a nonprofit software project
 - 📫 Reach me at [dorseyccampbell@gmail.com](mailto:dorseyccampbell@gmail.com)
-
-## About me
-
-I’ve worked on CRM features for booking and SMS-notification workflows in a large TypeScript codebase, integrating Firebase with third-party messaging and scheduling APIs. I also create and evaluate realistic task workflows for AI agents, including automations that connect tools like Telegram, Discord, and Google Calendar.
-
-Outside of school and work, I like making developer tools and Discord bots that solve real problems at scale.
